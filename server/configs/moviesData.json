@@ -1,0 +1,83 @@
+ [
+  {
+    "id": "1",
+    "title": "Texas Chainsaw Massacre",
+    "year": "2020",
+    "min": "140 mins",
+    "description": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin. ",
+    "rating": "8.1/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg"
+  },
+  {
+    "title": "Game of Thrones",
+    "year": "2011",
+    "min": "120 mins",
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "rating": "8.4/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "id": "2"
+  },
+  {
+    "title": "Lucifer",
+    "year": "2016",
+    "min": "140 mins",
+    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "rating": "8.5/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "id": "3"
+  },
+  {
+    "title": "Joker",
+    "year": "2019",
+    "min": "190 mins",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "rating": "8.2/10",
+    "id": "4",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "title": "The Flash",
+    "year": "2014",
+    "min": "180 mins",
+    "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+    "rating": "8/10",
+    "id": "5"
+  },
+  {
+    "title": "Jumanji: The Next Level",
+    "year": "2019",
+    "min": "190 mins",
+    "description": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+    "rating": "8.1/10",
+    "id": "6"
+  },
+  {
+    "id": "7",
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "min": "168 mins",
+    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "rating": "8.3/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+  },
+  {
+    "id": "8",
+    "title": "The Batman",
+    "year": "2022",
+    "min": "178 mins",
+    "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "rating": "8.2/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "min": "170 mins",
+    "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "rating": "8.3/10",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1uoU4qPZEcOus0rQf8Tz4JCn3cX.jpg"
+  }
+]
